@@ -1,0 +1,11 @@
+#05 - Notes
+
+## Syntax
+
+Notes are written in [Github-Flavored Markdown]
+(https://guides.github.com/features/
+mastering-markdown], so you can write emojis
+(':joy:' -> :joy:), ~~strikethrough~~ text etc. 
+in a familiar fashion, additionally you can also write subscripts~example~, superscripts^example^ 
+and footnotes[^1].
+
